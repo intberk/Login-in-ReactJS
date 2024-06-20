@@ -24,7 +24,6 @@ const LoginForm = () => {
                 <div className='register-link'>
                     <p>Don't have an account? <a href="#">Register</a></p>
                 </div>
-                <div className="not-equal-lifes"></div>
             </form>
         </div>
     );
